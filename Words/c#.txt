@@ -1,0 +1,68 @@
+!after:( )
+!repetitions:3
+using
+
+public
+private
+internal
+protected
+virtual
+static
+override
+
+if
+else
+
+try
+catch
+finally
+
+new
+class
+enum
+interface
+base
+async
+await
+abstract
+
+get
+set
+getset:{{} get; set; {}}
+Full get:{{}{Enter}get{Enter}{{}{Enter}{Enter}{}}{Enter}{}}
+
+case
+break
+
+do
+while
+for
+foreach
+
+void
+out
+null
+this
+nameof
+typeof
+event
+throw
+
+true
+false
+value
+
+logic or:||
+logic and:&&
+logic unequal:!=
+logic equal:==
+
+return
+
+bool
+string
+object
+int
+
+List
+Dictionary

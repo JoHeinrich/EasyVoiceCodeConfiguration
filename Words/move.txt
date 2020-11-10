@@ -1,0 +1,42 @@
+left:{Left}
+right:{right}
+up:{up}
+down:{down}
+word left:^{left}
+word right:^{right}
+
+navigate:^(t)
+rename:^(rr)
+
+right <n,number()>:{Right $i0}
+left <n,number()>:{Left $i0}
+up <n,number()>:{up $i0}
+down <n,number()>:{down $i0}
+left <n,number()> words:^{left $i0}
+right <n,number()> words:^{right $i0}
+
+
+shift right <n,number()>:+{Right $i0}
+shift left <n,number()>:+{Left $i0}
+shift right <n,number()> words:+^{Right $i0}
+shift left <n,number()> words:+^{Left $i0}
+shift word right:+^{Right}
+shift word left:+^{Left}
+
+alt down:%{down}
+alt up:%{down}
+alt down <n,number()>:%{down $i0}
+alt up <n,number()>:%{up $i0}
+
+back:{Backspace}
+back <n,number()>:{Backspace $i0}
+
+delete:{delete}
+delete <n,number()>:{delete $i0}
+
+delete word:^{delete}
+delete <n,number()> words:^{delete $i0}
+back word:^{Backspace}
+back <n,number()> words:^{Backspace $i0}
+
+number <n,number()>:$i0

@@ -1,0 +1,11 @@
+Play:k
+Pause:k
+
+Mute:m
+
+Full screen:f
+Maximize:f
+Minimize:{Esc}
+
+Expand:t
+Shrink:t

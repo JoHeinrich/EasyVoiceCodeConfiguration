@@ -1,0 +1,9 @@
+
+
+
+website proxer:execute https://proxer.me/?set=popular#top
+website comands:execute https://support.microsoft.com/en-us/help/12427/windows-speech-recognition-commands
+website keys:execute https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.sendkeys?view=netframework-4.8
+website youtube:execute https://www.youtube.com
+systemkey
+t

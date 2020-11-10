@@ -1,0 +1,1 @@
+{"Settings":{"SingleActive":false,"AlwaysOn":false,"Repeatable":false},"Configurations":[{"Identifier":"WordsAddon.File.firefox","Activation":3},{"Identifier":"WindowsAddons.Command.AdvancedText","Activation":3},{"Identifier":"WindowsAddons.Command.Scroll","Activation":3}],"ActivationConditions":[{"Key":"process_name","Value":"firefox"}],"Name":"firefox"}

@@ -1,0 +1,17 @@
+quick actions:^{.}
+format:^(kd)
+alternates:^(j)
+new class:^+(a)
+stop Debugging:+{f5}
+arguments:^+( )
+step single:{f10}
+step into:{f11}
+step Out:+{f11}
+git commit:^(0g){tab}{tab}              
+Expand:%+({+})
+Contract:+%(-)
+Break point:{f9}
+Synchronize:^(ß)s
+Designer:+{f7}
+code:{f7}
+Run test:^(r)t

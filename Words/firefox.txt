@@ -1,0 +1,2 @@
+firefox Chronik:^+(h)
+tap close:^{f4}

@@ -1,0 +1,54 @@
+!repetitions:4
+caret:{^}
+
+exklamation mark:!
+
+
+and:&
+
+equals:=
+
+Question mark:?
+
+at:@
+
+Asterisk:*
+plus:{+}
+hash:#
+
+quote:"
+singer quote:'
+
+
+horisontal line:|
+
+dot:.
+komma:,
+Semicolon:;
+double point::
+
+minus:{-}
+
+Underscore:_
+space:( ) 
+
+slasch:/
+back slasch:\
+
+brari:{(}
+brarl:{)}
+bracki:{[}
+brackl:{]}
+paranti:{{}
+parantl:{}}
+smaler:{<}
+bigger:{>}
+
+arrow:={>}
+
+°
+§
+Dollar:$
+%:{%}
+€
+~

@@ -1,0 +1,9 @@
+!after:{TAB}{TAB}
+constructor:ctor
+while
+try
+prop
+propfull
+foreach
+for
+switch

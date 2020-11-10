@@ -1,0 +1,23 @@
+
+
+Twilight:vq
+Stargate:vw
+Robo:ve
+
+Archive:va
+Flesat:vs
+Advanced Rover:vd
+
+dark shrine:vr
+
+
+nexus:bq
+aSimulator:bw
+pylon:be
+
+gate:ba
+Forge:bs
+
+core:bd
+canon:br
+battery:br

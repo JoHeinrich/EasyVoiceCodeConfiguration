@@ -1,0 +1,1 @@
+{"Settings":{"SingleActive":false,"AlwaysOn":false,"Repeatable":false},"Configurations":[{"Identifier":"EasyVoiceCode.Command.Show","Activation":3}],"ActivationConditions":[{"Key":"process_name","Value":"EasyVoiceCode"}],"Name":"UserInterface"}

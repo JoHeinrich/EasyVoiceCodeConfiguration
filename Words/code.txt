@@ -1,0 +1,3 @@
+
+Member <t,CSharpAddon.List.Members>: $s0
+<g,CSharpAddon.List.Generics>of<t,CSharpAddon.List.Types>: $s0<$s1>

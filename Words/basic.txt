@@ -1,0 +1,48 @@
+
+Mouse Off:{F9}
+safe:^{s}
+help:^( )
+select all: ^(a)
+previous:^(-)
+next:^+(-)
+
+escape:{ESC}
+TAB:{TAB}
+
+end:{END}
+start:{HOME}
+alt down:%({down})
+widen:^(w)
+Shrink:^+(w)
+
+hello
+test
+
+
+newline:{Enter}
+newline Above:^({Enter})
+newline below:^+({Enter})
+
+copy:^{c}
+Search:^{f}
+cut:^{x}
+undo:^{z}
+redo:^{y}
+delete line:^{l}
+comment:^(kc)
+uncomment:^(ku)
+run:{f5}
+definition:{f12}
+usage:+{f12}
+implementation:^{f12}
+paste:^{v}
+duplicate:^(cvv)
+search and replace:^{h}
+tap close:^{f4}
+
+window close:^{f4}
+Mouse toggle:{f11}
+Mouse Activate:{f11}
+Mouse Deactivate:{f11}
+
+test:{(}{)}{{}{enter}
