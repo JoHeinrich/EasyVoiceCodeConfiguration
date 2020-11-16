@@ -1,2 +1,5 @@
 firefox Chronik:^+(h)
 tap close:^{f4}
+
+previous:%({LEFT})
+next:%({RIGHT})

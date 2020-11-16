@@ -1,1 +1,1 @@
-{"Settings":{"SingleActive":false,"AlwaysOn":false,"Repeatable":false},"Configurations":[{"Identifier":"WindowsAddons.Command.Search","Activation":3}],"ActivationConditions":[],"Name":"New Profile1"}
+{"Settings":{"SingleActive":false,"AlwaysOn":false,"Repeatable":false},"Configurations":[{"Identifier":"WindowsAddons.Command.Search","Activation":3},{"Identifier":"CSharpAddon.Command.Define","Activation":2}],"ActivationConditions":[],"Name":"New Profile1"}

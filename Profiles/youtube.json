@@ -1,0 +1,1 @@
+{"Settings":{"SingleActive":false,"AlwaysOn":false,"Repeatable":false},"Configurations":[{"Identifier":"WordsAddon.File.youtube","Activation":3}],"ActivationConditions":[{"Key":"window_title","Value":"YouTube"}],"Name":"youtube"}

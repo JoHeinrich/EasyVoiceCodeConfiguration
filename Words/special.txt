@@ -49,6 +49,6 @@ arrow:={>}
 °
 §
 Dollar:$
-%:{%}
-€
+percent:{%}
+Euro:€
 ~

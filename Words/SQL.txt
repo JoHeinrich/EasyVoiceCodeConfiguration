@@ -1,0 +1,17 @@
+!after:( )
+SELECT 
+FROM 
+WHERE
+GROUP BY
+HAVING 
+ORDER BY
+Ascending:ASC
+Descending:DESC
+LIMIT 
+OR 
+AND 
+MIN 
+MAX 
+COUNT
+SUM 
+average:AVG 

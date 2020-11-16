@@ -15,3 +15,13 @@ Synchronize:^(ß)s
 Designer:+{f7}
 code:{f7}
 Run test:^(r)t
+
+comment:^(kc)
+uncomment:^(ku)
+run:{f5}
+definition:{f12}
+usage:+{f12}
+implementation:^{f12}
+
+previous:^(-)
+next:^+(-)
